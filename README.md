@@ -344,7 +344,7 @@ urlpatterns += router.urls
 
 ### Contributors
 
-- 박현주[(phj@hanbat.ac.kr)](phj@hanbat.ac.kr)
+- 오형석[(wellstone@hanbat.ac.kr)](wellstone@hanbat.ac.kr)
 - 한밭대학교 무선통신소프트웨어 연구실 NRF-IoT-Platform 연구팀
 
 

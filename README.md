@@ -1,18 +1,5 @@
 ## Django REST Framwork
 ------
-
-**Table of Contents**
-
-- [Python install](#Python install)
-- [Virtual Environment](#Virtual Environment)
-- [Django install](#Django install)
-- [psycopg2 install](#psycopg2 install)
-- [Django REST Framwork install](#Django REST Framwork install)
-- [Django project 생성](# Django project 생성)
-- [Database 연동](#Database 연동)
-- [Django REST Framework 사용하기](# Django REST Framework 사용하기)
-- [Django_rest_swagger 사용하기](#Django_rest_swagger 사용하기)
-
 ### Python install
 
 #### windows
